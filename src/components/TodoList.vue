@@ -17,7 +17,7 @@ export default {
 #list{
     width: 400px;
     height: 150px;
-    border: 1px solid #ffffff;
+    border: 2px solid #ffffff;
     margin:50px auto 40px auto;
     display: flex;
     flex-wrap: wrap;
